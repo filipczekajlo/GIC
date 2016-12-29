@@ -4,7 +4,7 @@ author: [Filip Czekajlo]
 author-url: [-]
 title: [colm]
 tags: [P5.js,[Color], [-], ]
-permalink: /[CATEGORY]/[my-title]/
+permalink:  GIC/colm 
 summary: [-]
 ---  
 
