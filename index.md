@@ -3,7 +3,7 @@ layout: p5js
 author: [Filip Czekajlo]
 author-url: [-]
 title: [colm]
-tags: [P5.js,[Color], [-], Law of Something]
+tags: [P5.js,[Color], [-], ]
 permalink: /[CATEGORY]/[my-title]/
 summary: [-]
 ---  
